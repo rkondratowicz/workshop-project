@@ -1,0 +1,14 @@
+# temporary backlog files
+.backlog/breakdowns/
+.backlog/local/
+.backlog/remote/
+.backlog/breakdown-notes/
+
+# other
+.DS_Store
+
+# local transcript processing (keep folders, ignore contents)
+transcripts/in/*
+transcripts/out/*
+transcripts/archive/*
+!transcripts/*/.gitkeep

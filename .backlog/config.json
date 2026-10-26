@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1.0,
+  "projectKey": "PPO",
+  "projectName": "Planning Poker",
+  "provider": {
+    "type": "github-projects",
+    "organisation": "KainosSoftwareLtd",
+    "projectNumber": 101,
+    "repository": "KainosSoftwareLtd/<TO_UPDATE_REPOSITORY_NAME>",
+    "draftLabel": "draft",
+    "draftSprintName": "Drafts"
+  }
+}
